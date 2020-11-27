@@ -9,7 +9,7 @@ layout: default
 These days I'm working hard to finish the final project of this term. [Check the project Repo](https://github.com/ChenWendi2001/Principles-and-Practice-of-Problem-Solving).
 
 Also, I spare some time to learn Deep Learning and Machine Learing. [Check the cs231n assignment Repo](https://github.com/ChenWendi2001/cs231n-assignments).
-
+* * *
 
 ## Selected Projects
 ### RISC-V CPU Simulator 💻
@@ -20,7 +20,7 @@ In this project, I implemented a RISC-V simulator supporting *RV32I Base Integer
 [Check the project Repo](https://github.com/ChenWendi2001/RISCV-Simulator).
 
 ### Gobang AI 🎲
-
+* * *
 ## Skills
 
 | skill         | proficiency(out of 100 relatively)| 
@@ -29,11 +29,11 @@ In this project, I implemented a RISC-V simulator supporting *RV32I Base Integer
 | Python        | 80                             | 
 | PyTorch       | learning                       | 
 | Web Deployment| learning                       |
-
+* * *
 ## Honor
 - [Zhiyuan Honors Program (Engineering)](https://zhiyuan.sjtu.edu.cn/ "Zhiyuan College")
 - SJTU Academic Scholarship B
-
+* * *
 ## Contact
 - E-mail: chenwendi-andy@sjtu.edu.cn
 - GitHub: [ChenWendi2001](https://github.com/ChenWendi2001 "Check GitHub")
