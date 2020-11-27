@@ -19,7 +19,7 @@ In this project, I implemented a RISC-V simulator supporting *RV32I Base Integer
 
 [Check the project Repo](https://github.com/ChenWendi2001/RISCV-Simulator).
 
-### Gobang AI :game_die:
+### Gobang AI 🎲
 
 ## Skills
 
