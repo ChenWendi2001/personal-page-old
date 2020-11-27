@@ -12,8 +12,7 @@ Also, I spare some time to learn Deep Learning and Machine Learing. [Check the c
 
 
 ## Selected Projects
-### RISC-V CPU Simulator 
-:computer:
+### RISC-V CPU Simulator 💻
 ![cplusplus](https://img.shields.io/badge/c%2B%2B-11-brightgreen) ![riscv](https://img.shields.io/badge/RISC--V-v2.2-blue) 
 
 In this project, I implemented a RISC-V simulator supporting *RV32I Base Integer ISA* through C++. It has a 5-stage pipeline to enable parallel execution. Also, data & control hazards are solved through forwarding and dynamic branch prediction.
