@@ -20,6 +20,13 @@ In this project, I implemented a RISC-V simulator supporting *RV32I Base Integer
 [Check the project Repo](https://github.com/ChenWendi2001/RISCV-Simulator).
 
 ### Gobang AI 🎲
+![cplusplus](https://img.shields.io/badge/c%2B%2B-11-brightgreen) ![Qt]( https://img.shields.io/badge/Qt-5.9.0-blue)
+
+Here's an interesting project I finished in summer holiday. With a 6-step searching depth and alpha-beta pruning, this AI is capable of beating a novice in Gobang. Besides, it's the first GUI application a develop through Qt.
+
+[Check the project Repo](https://github.com/ChenWendi2001/GoBang_AI).
+
+
 * * *
 ## Skills
 
@@ -34,7 +41,9 @@ In this project, I implemented a RISC-V simulator supporting *RV32I Base Integer
 ## Honor
 - [Zhiyuan Honors Program (Engineering)](https://zhiyuan.sjtu.edu.cn/ "Zhiyuan College")
 - SJTU Academic Scholarship B
+
 * * *
+
 ## Contact
 - E-mail: chenwendi-andy@sjtu.edu.cn
 - GitHub: [ChenWendi2001](https://github.com/ChenWendi2001 "Check GitHub")
