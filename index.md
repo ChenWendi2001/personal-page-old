@@ -15,14 +15,14 @@ Also, I spare some time to learn Deep Learning and Machine Learing. [Check the c
 ### RISC-V CPU Simulator 💻
 ![cplusplus](https://img.shields.io/badge/c%2B%2B-11-brightgreen) ![riscv](https://img.shields.io/badge/RISC--V-v2.2-blue) 
 
-In this project, I implemented a RISC-V simulator supporting *RV32I Base Integer ISA* through C++. It has a 5-stage pipeline to enable parallel execution. Also, data & control hazards are solved through forwarding and dynamic branch prediction.
+In this project, I implemented a RISC-V simulator supporting *RV32I Base Integer ISA* through C++. It has a 5-stage pipeline to enable parallel execution. Also, data & control hazards are handled through forwarding and dynamic branch prediction.
 
 [Check the project Repo](https://github.com/ChenWendi2001/RISCV-Simulator)
 
 ### Gobang AI 🎲
 ![cplusplus](https://img.shields.io/badge/c%2B%2B-11-brightgreen) ![Qt]( https://img.shields.io/badge/Qt-5.9.0-blue)
 
-Here's an interesting project I finished in summer holiday. With a 6-step searching depth and alpha-beta pruning, this AI is capable of beating a novice in Gobang. Besides, it's the first GUI application II develop through Qt.
+Here's an interesting project I finished in summer holiday. With a 6-step searching depth and alpha-beta pruning, this AI is capable of beating a novice in Gobang. Besides, it's the first GUI application I developed through Qt.
 
 [Check the project Repo](https://github.com/ChenWendi2001/GoBang_AI)
 
@@ -32,6 +32,7 @@ Here's an interesting project I finished in summer holiday. With a 6-step search
 ![python](https://img.shields.io/badge/Python-v3.7-blue)
 
 This is a script that helps SJTUer and FDUer to import their class schedule into mobile phones.
+
 [SJTU version](https://github.com/ChenWendi2001/SJTU_ics_generator)
 
 [FDU version](https://github.com/ChenWendi2001/fdu_ics_generator)
