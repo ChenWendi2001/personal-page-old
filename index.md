@@ -33,6 +33,7 @@ Here's an interesting project I finished in summer holiday. With a 6-step search
 
 This is a script that helps SJTUer and FDUer to import their class schedule into mobile phones.
 [SJTU version](https://github.com/ChenWendi2001/SJTU_ics_generator)
+
 [FDU version](https://github.com/ChenWendi2001/fdu_ics_generator)
 
 * * *
