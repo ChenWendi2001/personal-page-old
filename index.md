@@ -2,14 +2,11 @@
 layout: default
 ---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-
+## What am I doing recently?
 These days I'm working hard to finish the final project of this term. [Check the project Repo](https://github.com/ChenWendi2001/Principles-and-Practice-of-Problem-Solving).
 
-Also, I spare some time to learning Deep Learning and Machine Learing. [Check the cs231n assignment Repo](https://github.com/ChenWendi2001/cs231n-assignments).
+Also, I spare some time to learn Deep Learning and Machine Learing. [Check the cs231n assignment Repo](https://github.com/ChenWendi2001/cs231n-assignments).
 
 
 ## Selected Projects
@@ -21,8 +18,8 @@ Also, I spare some time to learning Deep Learning and Machine Learing. [Check th
 |:------------- |:------------------             |
 | C++ & qt      | 90                             | 
 | Python        | 80                             | 
-| PyTorch       | Learning                       | 
-| Web Deployment| Learning                       |
+| PyTorch       | learning                       | 
+| Web Deployment| learning                       |
 
 ## Honor
 - [Zhiyuan Honors Program (Engineering)](https://zhiyuan.sjtu.edu.cn/ "Zhiyuan College")
