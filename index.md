@@ -5,15 +5,13 @@ layout: default
 
 ## What am I doing recently?
 [![Wendi Chen's github stats](https://github-readme-stats.vercel.app/api?username=chenwendi2001)](https://github.com/ChenWendi2001)
-#### :bar_chart: Weekly development breakdown
+#### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
 
 ```text
 C++        3 mins          ████████▓░░░░░░░░░░░░░░░░   34.12 % 
-TeX        2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.81 % 
-Markdown   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.54 % 
-Python     1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+
 ```
 
 <!--END_SECTION:waka-->
