@@ -5,6 +5,14 @@ layout: default
 
 ## What am I doing recently?
 [![Wendi Chen's github stats](https://github-readme-stats.vercel.app/api?username=chenwendi2001)](https://github.com/ChenWendi2001)
+#### :bar_chart: Weekly development breakdown
+
+<!--START_SECTION:waka-->
+```text
+C++        3 mins          ████████▓░░░░░░░░░░░░░░░░   34.12 % 
+
+```
+<!--END_SECTION:waka-->
 
 These days I'm working hard to finish the final project of this term. [Check the project Repo](https://github.com/ChenWendi2001/Principles-and-Practice-of-Problem-Solving)
 
