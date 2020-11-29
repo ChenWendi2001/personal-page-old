@@ -8,10 +8,14 @@ layout: default
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
 ```text
 C++        3 mins          ████████▓░░░░░░░░░░░░░░░░   34.12 % 
-
+TeX        2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.81 % 
+Markdown   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.54 % 
+Python     1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
+
 <!--END_SECTION:waka-->
 
 These days I'm working hard to finish the final project of this term. [Check the project Repo](https://github.com/ChenWendi2001/Principles-and-Practice-of-Problem-Solving)
