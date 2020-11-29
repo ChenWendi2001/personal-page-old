@@ -3,7 +3,7 @@ import sys
 import re
 
 if __name__ == "__main__":
-    assert(len(sys.argv) == 4)
+    assert(len(sys.argv) == 3)
     handle = sys.argv[1]
     indexPath = sys.argv[2]
 
