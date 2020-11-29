@@ -26,7 +26,7 @@ Here's an interesting project I finished in summer holiday. With a 6-step search
 
 [Check the project Repo](https://github.com/ChenWendi2001/GoBang_AI)
 
->In addition, I like to develop some useful tools which simplify workflow. Here's some examples below.
+>In addition, I like to develop some useful tools which simplify workflow. Here're some examples below.
 
 ### SJTU & FDU ICS Generator 📆
 ![python](https://img.shields.io/badge/Python-v3.7-blue)
