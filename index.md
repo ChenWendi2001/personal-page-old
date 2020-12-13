@@ -10,11 +10,11 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 04 December, 2020 - 11 December, 2020
+Week: 05 December, 2020 - 12 December, 2020
 
-Python   3 hrs 56 mins   █████████████████▓░░░░░░░   70.68 % 
-C++      1 hr 26 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.73 % 
-HTML     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Python   4 hrs 16 mins   ██████████████████░░░░░░░   72.28 % 
+C++      1 hr 26 mins    ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+HTML     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 ```
 
 <!--END_SECTION:waka-->
