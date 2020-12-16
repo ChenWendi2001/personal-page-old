@@ -26,7 +26,7 @@ Also, I spare some time to learn Deep Learning and Machine Learing. [Check the c
 * * *
 
 ## Selected Projects
-### Didi-Visualizer 📊
+### Didi Visualizer 📊
 ![cplusplus](https://img.shields.io/badge/c%2B%2B-11-brightgreen) ![Qt]( https://img.shields.io/badge/Qt-5.9.0-blue)
 
 ![avatar](./assets/img/didi-visualizer.png)
