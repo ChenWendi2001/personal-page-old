@@ -26,10 +26,21 @@ Also, I spare some time to learn Deep Learning and Machine Learing. [Check the c
 * * *
 
 ## Selected Projects
+### Didi-Visualizer 📊
+![cplusplus](https://img.shields.io/badge/c%2B%2B-11-brightgreen) ![Qt]( https://img.shields.io/badge/Qt-5.9.0-blue)
+
+![avatar](./assets/img/didi-visualizer.png)
+A cross-platform multi-thread GUI which can analysize Didi demand data and provide valuable suggestions. This a project for *CS241, SJTU*. 
+
+
+[Check the project Repo](https://github.com/ChenWendi2001/Principles-and-Practice-of-Problem-Solving)
+
+
 ### RISC-V CPU Simulator 💻
 ![cplusplus](https://img.shields.io/badge/c%2B%2B-11-brightgreen) ![riscv](https://img.shields.io/badge/RISC--V-v2.2-blue) 
 
 In this project, I implemented a RISC-V simulator supporting *RV32I Base Integer ISA* through C++. It has a 5-stage pipeline to enable parallel execution. Also, data & control hazards are handled through forwarding and dynamic branch prediction.
+
 
 [Check the project Repo](https://github.com/ChenWendi2001/RISCV-Simulator)
 
