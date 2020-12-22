@@ -10,12 +10,12 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 13 December, 2020 - 20 December, 2020
+Week: 14 December, 2020 - 21 December, 2020
 
-Python     3 hrs 18 mins   ██████████████████░░░░░░░   72.00 % 
-JSON       35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-C++        28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Markdown   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Python     3 hrs 37 mins   ███████████████████▓░░░░░   78.33 % 
+JSON       35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Markdown   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+C++        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 
 <!--END_SECTION:waka-->
