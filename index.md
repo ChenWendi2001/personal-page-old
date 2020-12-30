@@ -4,6 +4,8 @@ layout: default
 
 
 ## What am I doing recently?
+# Final Exam QAQ
+# No Time for Coding
 [![Wendi Chen's github stats](https://github-readme-stats.vercel.app/api?username=chenwendi2001)](https://github.com/ChenWendi2001)
 #### 📊 Weekly development breakdown
 
@@ -18,7 +20,7 @@ C++      7 mins          ███▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-These days I'm working hard to finish the final project of this term. [Check the project Repo](https://github.com/ChenWendi2001/Principles-and-Practice-of-Problem-Solving)
+The final project of this term (CS241, SJTU) has been finished. [Check the project Repo](https://github.com/ChenWendi2001/Principles-and-Practice-of-Problem-Solving)
 
 Also, I spare some time to learn Deep Learning and Machine Learing. [Check the cs231n assignment Repo](https://github.com/ChenWendi2001/cs231n-assignments)
 * * *
@@ -74,6 +76,7 @@ This is a script that helps SJTUer and FDUer to import their class schedule into
 ## Honor
 - [Zhiyuan Honors Program (Engineering)](https://zhiyuan.sjtu.edu.cn/ "Zhiyuan College")
 - SJTU Academic Scholarship B
+- Zhiyuan Honors Scholarship 2020
 
 * * *
 
