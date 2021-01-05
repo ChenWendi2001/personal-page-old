@@ -4,7 +4,7 @@ layout: default
 
 
 ## What am I doing recently?
-# Final Exam QAQ
+# Final Exam QAQ Until Jan 8th
 # No Time for Coding
 [![Wendi Chen's github stats](https://github-readme-stats.vercel.app/api?username=chenwendi2001)](https://github.com/ChenWendi2001)
 #### 📊 Weekly development breakdown
@@ -30,7 +30,7 @@ Also, I spare some time to learn Deep Learning and Machine Learing. [Check the c
 ![cplusplus](https://img.shields.io/badge/c%2B%2B-11-brightgreen) ![Qt]( https://img.shields.io/badge/Qt-5.9.0-blue)
 
 ![avatar](./assets/img/didi-visualizer.png)
-A cross-platform multi-thread GUI which can analyze Didi demand data and provide valuable suggestions. This a project for *CS241, SJTU*. 
+A cross-platform multi-thread GUI which can analyze Didi demand data and provide valuable suggestions. This is a project for *CS241, SJTU*. 
 
 
 [Check the project Repo](https://github.com/ChenWendi2001/Principles-and-Practice-of-Problem-Solving)
