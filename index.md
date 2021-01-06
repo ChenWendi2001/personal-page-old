@@ -12,10 +12,10 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 28 December, 2020 - 04 January, 2021
+Week: 29 December, 2020 - 05 January, 2021
 
-Python     42 mins         ███████████████████████▒░   92.91 % 
-Markdown   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Python     5 mins          ████████████████░░░░░░░░░   64.11 % 
+Markdown   3 mins          █████████░░░░░░░░░░░░░░░░   35.89 % 
 ```
 
 <!--END_SECTION:waka-->
