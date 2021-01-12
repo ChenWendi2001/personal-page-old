@@ -67,7 +67,7 @@ This is a script that helps SJTUer and FDUer to import their class schedule into
 | C++ & Qt      | 90                             | 
 | Python        | 80                             | 
 | PyTorch       | learning                       | 
-| Web Deployment| learning                       |
+| Web Development| learning                       |
 
 * * *
 ## Honor
