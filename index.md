@@ -12,7 +12,7 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 21 January, 2021 - 28 January, 2021
+Week: 22 January, 2021 - 29 January, 2021
 
 Other    29 mins         ████████████▓░░░░░░░░░░░░   50.18 % 
 Python   29 mins         ████████████▒░░░░░░░░░░░░   49.82 % 
