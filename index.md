@@ -4,8 +4,7 @@ layout: default
 
 
 ## What am I doing recently?
-# Final Exam QAQ Until Jan 8th
-# No Time for Coding
+
 [![Wendi Chen's github stats](https://github-readme-stats.vercel.app/api?username=chenwendi2001)](https://github.com/ChenWendi2001)
 #### 📊 Weekly development breakdown
 
