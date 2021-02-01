@@ -11,10 +11,13 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 23 January, 2021 - 30 January, 2021
+Week: 24 January, 2021 - 31 January, 2021
 
-Other    30 mins         ████████████▓░░░░░░░░░░░░   50.70 % 
-Python   29 mins         ████████████▒░░░░░░░░░░░░   49.30 % 
+Other      51 mins         █████████▒░░░░░░░░░░░░░░░   37.61 % 
+C++        50 mins         █████████▒░░░░░░░░░░░░░░░   37.14 % 
+Python     29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.49 % 
+Markdown   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+YAML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 
 <!--END_SECTION:waka-->
