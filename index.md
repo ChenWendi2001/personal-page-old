@@ -11,13 +11,13 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 31 January, 2021 - 07 February, 2021
+Week: 01 February, 2021 - 08 February, 2021
 
-Python     12 hrs 11 mins  ██████████████████░░░░░░░   72.38 % 
-C++        3 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Markdown   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-CSV        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Matlab     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Python     15 hrs 5 mins   ███████████████████▒░░░░░   77.69 % 
+C++        2 hrs 47 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Markdown   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+HTML       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+CSV        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 
 <!--END_SECTION:waka-->
