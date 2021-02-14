@@ -11,12 +11,10 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 05 February, 2021 - 12 February, 2021
+Week: 06 February, 2021 - 13 February, 2021
 
-Python   13 hrs 16 mins  ████████████████████████▒   96.68 % 
-HTML     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Matlab   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-CSV      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python   6 hrs 45 mins   ████████████████████████░   96.41 % 
+HTML     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 
 <!--END_SECTION:waka-->
