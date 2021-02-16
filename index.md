@@ -11,10 +11,9 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 07 February, 2021 - 14 February, 2021
+Week: 08 February, 2021 - 15 February, 2021
 
-Python     3 hrs 42 mins   ███████████████████████▓░   95.15 % 
-HTML       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Python     49 mins         █████████████████████████   99.54 % 
 ```
 
 <!--END_SECTION:waka-->
