@@ -11,7 +11,7 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 17 February, 2021 - 24 February, 2021
+Week: 18 February, 2021 - 25 February, 2021
 
 HTML       45 mins         ████████████████▒░░░░░░░░   65.72 % 
 Markdown   23 mins         ████████▓░░░░░░░░░░░░░░░░   34.28 % 
