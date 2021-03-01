@@ -11,11 +11,9 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 20 February, 2021 - 27 February, 2021
+Week: 21 February, 2021 - 28 February, 2021
 
-C++        1 hr 2 mins     ████████████▒░░░░░░░░░░░░   48.86 % 
-HTML       45 mins         █████████░░░░░░░░░░░░░░░░   35.83 % 
-Markdown   19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+C++   1 hr 2 mins     █████████████████████████   100.00 % 
 ```
 
 <!--END_SECTION:waka-->
