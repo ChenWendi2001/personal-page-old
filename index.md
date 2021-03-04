@@ -11,9 +11,10 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 23 February, 2021 - 02 March, 2021
+Week: 24 February, 2021 - 03 March, 2021
 
-C++   1 hr 2 mins     █████████████████████████   100.00 % 
+Markdown   3 hrs 41 mins   ███████████████████▓░░░░░   78.00 % 
+C++        1 hr 2 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.00 % 
 ```
 
 <!--END_SECTION:waka-->
