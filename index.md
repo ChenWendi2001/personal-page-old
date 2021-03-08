@@ -11,11 +11,12 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 27 February, 2021 - 06 March, 2021
+Week: 28 February, 2021 - 07 March, 2021
 
-Markdown   5 hrs 3 mins    ██████████████████████▒░░   88.69 % 
-C++        36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-C          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Markdown   5 hrs 3 mins    █████████████████▓░░░░░░░   71.17 % 
+Python     1 hr 24 mins    █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+C++        36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+C          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 <!--END_SECTION:waka-->
