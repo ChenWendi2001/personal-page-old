@@ -11,12 +11,11 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 06 March, 2021 - 13 March, 2021
+Week: 08 March, 2021 - 15 March, 2021
 
-C          2 hrs 36 mins   ████████████▒░░░░░░░░░░░░   49.50 % 
-Python     1 hr 53 mins    █████████░░░░░░░░░░░░░░░░   35.94 % 
-Makefile   36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-GAS        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+C          2 hrs 36 mins   ███████████████████▒░░░░░   77.20 % 
+Makefile   36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.88 % 
+GAS        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 ```
 
 <!--END_SECTION:waka-->
