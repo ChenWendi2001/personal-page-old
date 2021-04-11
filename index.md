@@ -11,11 +11,9 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 02 April, 2021 - 09 April, 2021
+Week: 03 April, 2021 - 10 April, 2021
 
-C          4 hrs 9 mins    ███████████████████▒░░░░░   76.78 % 
-C++        1 hr 12 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.24 % 
-Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+C          4 hrs 9 mins    █████████████████████████   99.54 % 
 ```
 
 <!--END_SECTION:waka-->
