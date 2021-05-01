@@ -11,12 +11,12 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 22 April, 2021 - 29 April, 2021
+Week: 23 April, 2021 - 30 April, 2021
 
-Python     1 hr 5 mins     ███████████████▓░░░░░░░░░   63.26 % 
-Other      25 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.95 % 
-YAML       9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Python     1 hr 5 mins     ███████████████▒░░░░░░░░░   61.21 % 
+Other      29 mins         ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+YAML       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 <!--END_SECTION:waka-->
