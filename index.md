@@ -11,10 +11,10 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 02 May, 2021 - 09 May, 2021
+Week: 03 May, 2021 - 10 May, 2021
 
-TeX    20 mins         ███████████████▒░░░░░░░░░   61.46 % 
-JSON   11 mins         ████████▓░░░░░░░░░░░░░░░░   34.21 % 
+TeX      20 mins         ███████████████▒░░░░░░░░░   61.46 % 
+JSON     11 mins         ████████▓░░░░░░░░░░░░░░░░   34.21 % 
 ```
 
 <!--END_SECTION:waka-->
