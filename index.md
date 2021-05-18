@@ -11,9 +11,11 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 09 May, 2021 - 16 May, 2021
+Week: 10 May, 2021 - 17 May, 2021
 
-C          1 hr 22 mins    ████████████████████████▓   98.85 % 
+C          1 hr 25 mins    ███████████████████████▒░   93.34 % 
+Python     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Other      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 <!--END_SECTION:waka-->
