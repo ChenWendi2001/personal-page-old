@@ -11,11 +11,9 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 09 June, 2021 - 16 June, 2021
+Week: 10 June, 2021 - 17 June, 2021
 
-V          2 hrs 43 mins   ███████████████████████▒░   93.19 % 
-Other      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-CSS        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+V          49 mins         █████████████████████████   100.00 % 
 ```
 
 <!--END_SECTION:waka-->
