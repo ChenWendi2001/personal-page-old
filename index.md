@@ -11,11 +11,11 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 14 June, 2021 - 21 June, 2021
+Week: 15 June, 2021 - 22 June, 2021
 
-V       3 hrs 15 mins   ███████████████▒░░░░░░░░░   61.26 % 
-Text    1 hr 31 mins    ███████▒░░░░░░░░░░░░░░░░░   28.82 % 
-Other   31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+V       2 hrs 25 mins   █████████████▓░░░░░░░░░░░   54.13 % 
+Text    1 hr 31 mins    ████████▓░░░░░░░░░░░░░░░░   34.12 % 
+Other   31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
 ```
 
 <!--END_SECTION:waka-->
