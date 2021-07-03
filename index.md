@@ -11,10 +11,7 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 25 June, 2021 - 01 July, 2021
-
-V     2 mins          ██████████████░░░░░░░░░░░   56.26 % 
-C++   1 min           ███████████░░░░░░░░░░░░░░   43.74 % 
+No Activity tracked this Week
 ```
 
 <!--END_SECTION:waka-->
