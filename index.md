@@ -22,7 +22,17 @@ Also, I spare some time to learn Deep Learning and Machine Learing. [Check the c
 * * *
 
 ## Selected Projects
+### MIPS CPU 💻
+
+![Verilog](https://img.shields.io/badge/Verilog-2.0-blueviolet)
+
+I used Verilog to implement a 5-stage pipelined MIPS processor. It has many advanced features including forwarding, branch-not-taken and cache.
+
+[Check the project Repo](https://github.com/ChenWendi2001/MIPS-CPU)
+
+
 ### Didi Visualizer 📊
+
 ![cplusplus](https://img.shields.io/badge/c%2B%2B-11-brightgreen) ![Qt]( https://img.shields.io/badge/Qt-5.9.0-blue)
 
 ![avatar](./assets/img/didi-visualizer.png)
@@ -61,11 +71,11 @@ This is a script that helps SJTUer and FDUer to import their class schedule into
 * * *
 ## Skills
 
-| skill         | proficiency(out of 100 relatively)| 
+| skill         | proficiency(out of 100 relatively)|
 |:------------- |:------------------             |
-| C++ & Qt      | 90                             | 
-| Python        | 80                             | 
-| PyTorch       | learning                       | 
+| C++ & Qt      | 90                             |
+| Python        | 80                             |
+| PyTorch       | learning                       |
 | Web Development| learning                       |
 
 * * *
