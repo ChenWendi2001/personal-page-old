@@ -11,7 +11,9 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-No Activity tracked this Week
+Week: 06 July, 2021 - 12 July, 2021
+
+Python   15 mins         ████████████████████████▓   98.21 % 
 ```
 
 <!--END_SECTION:waka-->
