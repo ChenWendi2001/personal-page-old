@@ -11,10 +11,9 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 15 July, 2021 - 21 July, 2021
+Week: 16 July, 2021 - 22 July, 2021
 
-Python   5 mins          █████████████████▒░░░░░░░   68.97 % 
-Rust     1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.12 % 
+Rust    1 min           █████████████████▓░░░░░░░   71.31 % 
 ```
 
 <!--END_SECTION:waka-->
