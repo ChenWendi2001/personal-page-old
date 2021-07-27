@@ -11,9 +11,9 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 19 July, 2021 - 25 July, 2021
+Week: 20 July, 2021 - 26 July, 2021
 
-Rust     1 min           ████████████████████████▒   96.90 % 
+Rust     1 hr 8 mins     ████████████████████████▓   98.51 % 
 ```
 
 <!--END_SECTION:waka-->
