@@ -11,9 +11,13 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 27 July, 2021 - 02 August, 2021
+Week: 28 July, 2021 - 03 August, 2021
 
-
+Python     46 mins         ███████████░░░░░░░░░░░░░░   43.55 % 
+Text       34 mins         ████████░░░░░░░░░░░░░░░░░   32.26 % 
+Other      16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Markdown   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 
 <!--END_SECTION:waka-->
