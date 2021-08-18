@@ -11,7 +11,7 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 10 August, 2021 - 16 August, 2021
+Week: 11 August, 2021 - 17 August, 2021
 
 Python     8 hrs 18 mins   ██████████████░░░░░░░░░░░   55.47 % 
 Rust       5 hrs 7 mins    ████████▓░░░░░░░░░░░░░░░░   34.22 % 
