@@ -11,11 +11,11 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 20 August, 2021 - 26 August, 2021
+Week: 21 August, 2021 - 27 August, 2021
 
-Python     54 mins         ███████████████████████░░   92.41 % 
-Markdown   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Rust       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+C++        14 mins         █████████████████▒░░░░░░░   69.32 % 
+Python     4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Rust       1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 ```
 
 <!--END_SECTION:waka-->
