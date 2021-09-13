@@ -11,12 +11,12 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 05 September, 2021 - 11 September, 2021
+Week: 06 September, 2021 - 12 September, 2021
 
-Python     8 hrs 21 mins   ██████████████████▒░░░░░░   73.54 % 
-Bash       2 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.60 % 
-Markdown   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Python     8 hrs 33 mins   █████████████████▓░░░░░░░   70.24 % 
+Bash       3 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.20 % 
+Markdown   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 <!--END_SECTION:waka-->
