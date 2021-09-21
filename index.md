@@ -11,10 +11,10 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 13 September, 2021 - 19 September, 2021
+Week: 14 September, 2021 - 20 September, 2021
 
-Markdown     6 hrs 58 mins   █████████████████████▓░░░   86.27 % 
-Python       1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Markdown     4 hrs 4 mins    ██████████████████████░░░   87.44 % 
+Python       34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
 ```
 
 <!--END_SECTION:waka-->
