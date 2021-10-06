@@ -11,13 +11,13 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 28 September, 2021 - 04 October, 2021
+Week: 29 September, 2021 - 05 October, 2021
 
-Python     9 hrs 43 mins   ███████████████▒░░░░░░░░░   60.74 % 
-Markdown   4 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-JSON       1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-C++        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Bash       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Python     9 hrs 43 mins   ████████████████████░░░░░   79.66 % 
+JSON       57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Markdown   52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+C++        28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Bash       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 
 <!--END_SECTION:waka-->
