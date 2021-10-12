@@ -11,13 +11,13 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 04 October, 2021 - 10 October, 2021
+Week: 05 October, 2021 - 11 October, 2021
 
-Python       21 hrs 8 mins   █████████████████████▓░░░   86.26 % 
-Markdown     1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Other        1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-C++          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Git Config   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Python       26 hrs 7 mins   ██████████████████████▒░░   89.53 % 
+Markdown     1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Other        1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Git Config   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 <!--END_SECTION:waka-->
