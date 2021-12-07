@@ -11,13 +11,13 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 29 November, 2021 - 05 December, 2021
+Week: 30 November, 2021 - 06 December, 2021
 
-C#         7 hrs 1 min     ███████████░░░░░░░░░░░░░░   44.53 % 
-Python     4 hrs 46 mins   ███████▓░░░░░░░░░░░░░░░░░   30.31 % 
-Markdown   2 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.27 % 
-C++        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-YAML       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+C#         6 hrs 52 mins   ███████████░░░░░░░░░░░░░░   43.97 % 
+Python     4 hrs 48 mins   ███████▓░░░░░░░░░░░░░░░░░   30.80 % 
+Markdown   2 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.61 % 
+C++        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+YAML       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 
 <!--END_SECTION:waka-->
