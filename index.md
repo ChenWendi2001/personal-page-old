@@ -11,13 +11,13 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 08 December, 2021 - 14 December, 2021
+Week: 09 December, 2021 - 15 December, 2021
 
-Python     29 hrs 56 mins  ██████████████████████▓░░   91.14 % 
-YAML       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Other      44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Markdown   42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-JSON       27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Python     29 hrs 19 mins  ██████████████████████▒░░   89.28 % 
+Other      58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+YAML       49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Markdown   37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+JSON       27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 
 <!--END_SECTION:waka-->
