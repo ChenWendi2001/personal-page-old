@@ -11,7 +11,7 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
 Python   16 hrs 1 min    █████████████████████▒░░░   84.89 % 
 YAML     1 hr 48 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
