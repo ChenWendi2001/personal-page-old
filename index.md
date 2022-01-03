@@ -11,13 +11,13 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 26 December, 2021 - 01 January, 2022
+Week: 27 December, 2021 - 02 January, 2022
 
-Python     14 hrs 10 mins  ████████████████████▒░░░░   81.96 % 
-YAML       2 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Bash       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Markdown   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-JSON       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Python     14 hrs 9 mins   ████████████████████▓░░░░   83.01 % 
+YAML       2 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Markdown   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JSON       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Bash       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 
 <!--END_SECTION:waka-->
