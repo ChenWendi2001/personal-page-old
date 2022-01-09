@@ -11,13 +11,13 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 01 January, 2022 - 07 January, 2022
+Week: 02 January, 2022 - 08 January, 2022
 
-Python       4 hrs 16 mins   ██████████████████▓░░░░░░   75.26 % 
-YAML         59 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Bash         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Scala    3 hrs 47 mins   ███████████░░░░░░░░░░░░░░   44.49 % 
+Python   3 hrs 25 mins   ██████████░░░░░░░░░░░░░░░   40.24 % 
+YAML     59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Bash     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Other    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 
 <!--END_SECTION:waka-->
