@@ -11,13 +11,13 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 02 January, 2022 - 08 January, 2022
+Week: 03 January, 2022 - 09 January, 2022
 
-Scala    3 hrs 47 mins   ███████████░░░░░░░░░░░░░░   44.49 % 
-Python   3 hrs 25 mins   ██████████░░░░░░░░░░░░░░░   40.24 % 
-YAML     59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Bash     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Other    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Scala    3 hrs 48 mins   ███████████▒░░░░░░░░░░░░░   45.94 % 
+Python   3 hrs 10 mins   █████████▓░░░░░░░░░░░░░░░   38.38 % 
+YAML     59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Bash     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Other    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 <!--END_SECTION:waka-->
