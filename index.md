@@ -11,7 +11,7 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 05 January, 2022 - 11 January, 2022
+Week: 06 January, 2022 - 12 January, 2022
 
 Scala    3 hrs 48 mins   ████████████████▒░░░░░░░░   65.78 % 
 YAML     1 hr 14 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.45 % 
