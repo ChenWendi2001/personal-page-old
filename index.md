@@ -11,12 +11,11 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 18 January, 2022 - 24 January, 2022
+Week: 19 January, 2022 - 25 January, 2022
 
-YAML     2 hrs 57 mins   ████████████▓░░░░░░░░░░░░   50.60 % 
-Python   2 hrs 49 mins   ████████████░░░░░░░░░░░░░   48.31 % 
-C++      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Bash     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Python     3 hrs 30 mins   ████████████░░░░░░░░░░░░░   47.98 % 
+YAML       1 hr 54 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.07 % 
+Markdown   1 hr 53 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.85 % 
 ```
 
 <!--END_SECTION:waka-->
