@@ -11,12 +11,13 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 26 January, 2022 - 01 February, 2022
+Week: 27 January, 2022 - 02 February, 2022
 
-Markdown   9 hrs 29 mins   ██████████████████████▒░░   88.70 % 
-Python     56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-JSON       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-YAML       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Markdown   10 hrs 45 mins  ██████████████████████▒░░   89.03 % 
+Python     1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+JSON       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+YAML       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Rust       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 
 <!--END_SECTION:waka-->
