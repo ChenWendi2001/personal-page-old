@@ -11,11 +11,11 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
-Markdown   9 hrs 44 mins   ████████████████████████▓   98.74 % 
-Python     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Rust       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Markdown   8 hrs 56 mins   ████████████████████████▓   98.62 % 
+Python     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Rust       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 
 <!--END_SECTION:waka-->
