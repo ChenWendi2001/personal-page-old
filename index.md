@@ -11,7 +11,7 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 03 February, 2022 - 09 February, 2022
+Week: 04 February, 2022 - 10 February, 2022
 
 Markdown   5 hrs 38 mins   ██████████████████████░░░   88.24 % 
 Other      33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
