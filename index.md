@@ -22,11 +22,6 @@ Python     6 mins          ▓░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 * * *
-
-## Professional Services
-Teaching Assistant for
-- CS1958: Programming and Data Structure (Fall 2021), John Hopcroft Class
-
 ## Selected Projects
 ### StreamRipper 💻
 ![python](https://img.shields.io/badge/python-v3.8.8-blue) ![mitmproxy](https://img.shields.io/badge/mitmproxy-v7.0.4-green) ![rqlite](https://img.shields.io/badge/rqlite-v6.8.2-green)
@@ -83,14 +78,10 @@ This is a script that helps SJTUer and FDUer to import their class schedule into
 [FDU version](https://github.com/ChenWendi2001/fdu_ics_generator)
 
 * * *
-## Skills
 
-| skill         | proficiency(out of 100 relatively)|
-|:------------- |:------------------             |
-| C++ & Qt      | 90                             |
-| Python        | 80                             |
-| PyTorch       | learning                       |
-| Web Development| learning                       |
+## Professional Services
+Teaching Assistant for
+- CS1958: Programming and Data Structure (Fall 2021), John Hopcroft Class
 
 * * *
 ## Honor
