@@ -21,19 +21,28 @@ Python     6 mins          ▓░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-The final project of this term (CS241, SJTU) has been finished. [Check the project Repo](https://github.com/ChenWendi2001/Principles-and-Practice-of-Problem-Solving)
-
-Also, I spare some time to learn Deep Learning and Machine Learing. [Check the cs231n assignment Repo](https://github.com/ChenWendi2001/cs231n-assignments)
 * * *
 
+## Professional Services
+Teaching Assistant for
+- CS1958: Programming and Data Structure (Fall 2021), John Hopcroft Class
+
 ## Selected Projects
+### StreamRipper 💻
+![python](https://img.shields.io/badge/python-v3.8.8-blue) ![mitmproxy](https://img.shields.io/badge/mitmproxy-v7.0.4-green) ![rqlite](https://img.shields.io/badge/rqlite-v6.8.2-green)
+
+![avatar](./assets/img/streamripper-structure.png)
+StreamRipper is an adaptive distributed network cache on LAN. It provides an acceleration service for [Bilibili](https://www.bilibili.com).
+
+[Check the Project Repo](https://github.com/ChenWendi2001/StreamRipper)
+
 ### MIPS CPU 💻
 
 ![Verilog](https://img.shields.io/badge/Verilog-2.0-blueviolet)
 
 I used Verilog to implement a 5-stage pipelined MIPS processor. It has many advanced features including forwarding, branch-not-taken and cache.
 
-[Check the project Repo](https://github.com/ChenWendi2001/MIPS-CPU)
+[Check the Project Repo](https://github.com/ChenWendi2001/MIPS-CPU)
 
 
 ### Didi Visualizer 📊
@@ -44,7 +53,7 @@ I used Verilog to implement a 5-stage pipelined MIPS processor. It has many adva
 A cross-platform multi-thread GUI which can analyze Didi demand data and provide valuable suggestions. This is a project for *CS241, SJTU*. 
 
 
-[Check the project Repo](https://github.com/ChenWendi2001/Principles-and-Practice-of-Problem-Solving)
+[Check the Project Repo](https://github.com/ChenWendi2001/Principles-and-Practice-of-Problem-Solving)
 
 
 ### RISC-V CPU Simulator 💻
@@ -53,14 +62,14 @@ A cross-platform multi-thread GUI which can analyze Didi demand data and provide
 In this project, I implemented a RISC-V simulator supporting *RV32I Base Integer ISA* through C++. It has a 5-stage pipeline to enable parallel execution. Also, data & control hazards are handled through forwarding and dynamic branch prediction.
 
 
-[Check the project Repo](https://github.com/ChenWendi2001/RISCV-Simulator)
+[Check the Project Repo](https://github.com/ChenWendi2001/RISCV-Simulator)
 
 ### Gobang AI 🎲
 ![cplusplus](https://img.shields.io/badge/c%2B%2B-11-brightgreen) ![Qt]( https://img.shields.io/badge/Qt-5.9.0-blue)
 
 Here's an interesting project I finished in summer holiday. With a 6-step searching depth and alpha-beta pruning, this AI is capable of beating a novice in Gobang. Besides, it's the first GUI application I developed through Qt.
 
-[Check the project Repo](https://github.com/ChenWendi2001/GoBang_AI)
+[Check the Project Repo](https://github.com/ChenWendi2001/GoBang_AI)
 
 >In addition, I like to develop some useful tools which simplify workflow. Here're some examples below.
 
@@ -86,8 +95,11 @@ This is a script that helps SJTUer and FDUer to import their class schedule into
 * * *
 ## Honor
 - [Zhiyuan Honors Program (Engineering)](https://zhiyuan.sjtu.edu.cn/ "Zhiyuan College")
-- SJTU Academic Scholarship B
+- SJTU Academic Scholarship B 2020
 - Zhiyuan Honors Scholarship 2020
+- SJTU Academic Scholarship B 2021
+- Zhiyuan Honors Scholarship 2021
+- HyperGryph Scholarship
 
 * * *
 
