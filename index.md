@@ -74,13 +74,13 @@ Here's an interesting project I finished in summer holiday. With a 6-step search
 
 This is a script that helps SJTUer and FDUer to import their class schedule into mobile phones.
 
-[SJTU Version](https://github.com/ChenWendi2001/SJTU_ics_generator) and [FDU Version](https://github.com/ChenWendi2001/fdu_ics_generator) are provided.
+[SJTU version](https://github.com/ChenWendi2001/SJTU_ics_generator) and [FDU version](https://github.com/ChenWendi2001/fdu_ics_generator) are provided.
 
 * * *
 
 ## Professional Services
 Teaching Assistant for
-- CS1958: Programming and Data Structure (Fall 2021), John Hopcroft Class
+- CS1958: Programming and Data Structure I (Fall 2021), John Hopcroft Class
 
 * * *
 ## Honor
