@@ -11,15 +11,13 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-Week: 12 February, 2022 - 18 February, 2022
+Week: 13 February, 2022 - 19 February, 2022
 
-Total: 18 hrs 21 mins
-
-Markdown   9 hrs 33 mins   █████████████░░░░░░░░░░░░   51.85 % 
-Python     7 hrs 43 mins   ██████████▒░░░░░░░░░░░░░░   41.90 % 
-YAML       1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Other      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Bash       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python        7 hrs 58 mins   ███████████▓░░░░░░░░░░░░░   46.33 % 
+Markdown      7 hrs 58 mins   ███████████▓░░░░░░░░░░░░░   46.29 % 
+YAML          1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+shellscript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Other         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 
 <!--END_SECTION:waka-->
