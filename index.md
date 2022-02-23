@@ -11,13 +11,13 @@ layout: default
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 February, 2022 - To: 20 February, 2022
+From: 15 February, 2022 - To: 22 February, 2022
 
-Markdown      5 hrs 26 mins   █████████████░░░░░░░░░░░░   52.16 % 
-Python        4 hrs 37 mins   ███████████░░░░░░░░░░░░░░   44.39 % 
-YAML          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-shellscript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Other         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Python        10 hrs 5 mins   ██████████████████▓░░░░░░   74.25 % 
+Markdown      2 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+HTML          59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+shellscript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Other         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 
 <!--END_SECTION:waka-->
