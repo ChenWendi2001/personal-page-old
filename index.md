@@ -35,14 +35,6 @@ StreamRipper is an adaptive distributed network cache on LAN. It provides an acc
 
 [Check the Project Repo](https://github.com/ChenWendi2001/StreamRipper)
 
-### MIPS CPU 💻
-
-![Verilog](https://img.shields.io/badge/Verilog-2.0-blueviolet)
-
-I used Verilog to implement a 5-stage pipelined MIPS processor. It has many advanced features including forwarding, branch-not-taken and cache.
-
-[Check the Project Repo](https://github.com/ChenWendi2001/MIPS-CPU)
-
 
 ### Didi Visualizer 📊
 
@@ -53,6 +45,15 @@ A cross-platform multi-thread GUI which can analyze Didi demand data and provide
 
 
 [Check the Project Repo](https://github.com/ChenWendi2001/Principles-and-Practice-of-Problem-Solving)
+
+
+### MIPS CPU 💻
+
+![Verilog](https://img.shields.io/badge/Verilog-2.0-blueviolet)
+
+I used Verilog to implement a 5-stage pipelined MIPS processor. It has many advanced features including forwarding, branch-not-taken and cache.
+
+[Check the Project Repo](https://github.com/ChenWendi2001/MIPS-CPU)
 
 
 ### RISC-V CPU Simulator 💻
@@ -84,8 +85,9 @@ This is a script that helps SJTUer and FDUer to import their class schedule into
 ## Professional Services
 Teaching Assistant for
 - CS1958: Programming and Data Structure I (Fall 2021), John Hopcroft Class
+- CS1959: Programming and Data Structure II (Spring 2022), John Hopcroft Class
 
-* * *
+
 ## Honor
 - [Zhiyuan Honors Program (Engineering)](https://zhiyuan.sjtu.edu.cn/ "Zhiyuan College")
 - SJTU Academic Scholarship B 2020
@@ -94,7 +96,6 @@ Teaching Assistant for
 - Zhiyuan Honors Scholarship 2021
 - HyperGryph Scholarship
 
-* * *
 
 ## Contact
 - E-mail: chenwendi-andy@sjtu.edu.cn
