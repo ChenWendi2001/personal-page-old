@@ -12,11 +12,13 @@ layout: default
 
 
 ```text
-From: 21 March 2022 - To: 28 March 2022
+From: 22 March 2022 - To: 29 March 2022
 
-JavaScript   6 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   35.04 %
-Python       6 hrs 40 mins   ████████▒░░░░░░░░░░░░░░░░   33.53 %
-Other        1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+Python            13 hrs 46 mins  █████████████░░░░░░░░░░░░   52.64 %
+JavaScript        6 hrs 58 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
+JSON              1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+CSS               59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Other             57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 
