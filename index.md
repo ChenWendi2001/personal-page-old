@@ -12,10 +12,10 @@ layout: default
 
 
 ```text
-From: 07 April 2022 - To: 14 April 2022
+From: 08 April 2022 - To: 15 April 2022
 
-Python       5 hrs 25 mins   ██████████▒░░░░░░░░░░░░░░   41.57 %
-Other        3 hrs 24 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.15 %
+Python       5 hrs 32 mins   ██████████▓░░░░░░░░░░░░░░   42.33 %
+Other        3 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.97 %
 ```
 
 
