@@ -12,10 +12,9 @@ layout: default
 
 
 ```text
-From: 24 May 2022 - To: 31 May 2022
+From: 25 May 2022 - To: 01 June 2022
 
-Python       29 mins         █████████████████▒░░░░░░░   69.52 %
-JavaScript   12 mins         ███████▓░░░░░░░░░░░░░░░░░   30.48 %
+JavaScript   12 mins         █████████████████████████   100.00 %
 ```
 
 
