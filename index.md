@@ -12,12 +12,11 @@ layout: default
 
 
 ```text
-From: 08 June 2022 - To: 15 June 2022
+From: 09 June 2022 - To: 16 June 2022
 
-Python       10 hrs 34 mins  █████████████████████▓░░░   86.48 %
-Markdown     1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python       14 hrs 32 mins  ████████████████████████▒   97.59 %
+Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 
