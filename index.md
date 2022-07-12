@@ -12,10 +12,10 @@ layout: default
 
 
 ```text
-From: 03 July 2022 - To: 10 July 2022
+From: 04 July 2022 - To: 11 July 2022
 
-YAML         2 hrs 25 mins   █████████▒░░░░░░░░░░░░░░░   37.75 %
-Other        1 hr 57 mins    ███████▓░░░░░░░░░░░░░░░░░   30.63 %
+YAML         1 hr 58 mins    █████████▒░░░░░░░░░░░░░░░   37.14 %
+Other        1 hr 42 mins    ████████░░░░░░░░░░░░░░░░░   32.22 %
 ```
 
 
