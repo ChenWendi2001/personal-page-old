@@ -12,9 +12,9 @@ layout: default
 
 
 ```text
-From: 16 July 2022 - To: 23 July 2022
+From: 17 July 2022 - To: 24 July 2022
 
-Other        6 hrs 30 mins   ██████████▒░░░░░░░░░░░░░░   41.44 %
+Other        6 hrs 30 mins   ███████████▒░░░░░░░░░░░░░   45.46 %
 ```
 
 
