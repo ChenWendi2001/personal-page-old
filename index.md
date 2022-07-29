@@ -12,9 +12,10 @@ layout: default
 
 
 ```text
-From: 20 July 2022 - To: 27 July 2022
+From: 21 July 2022 - To: 28 July 2022
 
-Other        7 hrs 28 mins   ██████████▓░░░░░░░░░░░░░░   42.32 %
+Python       6 hrs 38 mins   ████████████░░░░░░░░░░░░░   47.75 %
+Other        3 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   27.58 %
 ```
 
 
