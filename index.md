@@ -12,11 +12,11 @@ layout: default
 
 
 ```text
-From: 18 August 2022 - To: 25 August 2022
+From: 19 August 2022 - To: 26 August 2022
 
-Python       2 hrs 6 mins    █████████▒░░░░░░░░░░░░░░░   37.99 %
-YAML         2 hrs           █████████░░░░░░░░░░░░░░░░   36.17 %
-Other        1 hr 20 mins    ██████░░░░░░░░░░░░░░░░░░░   24.38 %
+Python   2 hrs 41 mins   ███████████▓░░░░░░░░░░░░░   47.24 %
+YAML     1 hr 36 mins    ███████░░░░░░░░░░░░░░░░░░   28.33 %
+Other    1 hr 18 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
 ```
 
 
