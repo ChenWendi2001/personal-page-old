@@ -12,10 +12,10 @@ layout: default
 
 
 ```text
-From: 28 August 2022 - To: 04 September 2022
+From: 29 August 2022 - To: 05 September 2022
 
-Python       14 hrs 26 mins  ███████████▓░░░░░░░░░░░░░   46.96 %
-Other        12 hrs 24 mins  ██████████░░░░░░░░░░░░░░░   40.36 %
+Python       13 hrs 2 mins   ███████████▒░░░░░░░░░░░░░   45.48 %
+Other        12 hrs 38 mins  ███████████░░░░░░░░░░░░░░   44.06 %
 ```
 
 
