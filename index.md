@@ -12,9 +12,9 @@ layout: default
 
 
 ```text
-From: 28 September 2022 - To: 05 October 2022
+From: 29 September 2022 - To: 06 October 2022
 
-Other        4 hrs 36 mins   ██████████████▒░░░░░░░░░░   57.74 %
+Other        3 hrs 14 mins   █████████████▓░░░░░░░░░░░   55.05 %
 ```
 
 
