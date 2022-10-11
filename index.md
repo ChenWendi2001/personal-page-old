@@ -12,9 +12,10 @@ layout: default
 
 
 ```text
-From: 02 October 2022 - To: 09 October 2022
+From: 03 October 2022 - To: 10 October 2022
 
-Other        2 hrs 45 mins   ████████████▒░░░░░░░░░░░░   49.80 %
+Python       3 hrs 14 mins   ████████████▓░░░░░░░░░░░░   50.52 %
+Other        2 hrs 1 min     ████████░░░░░░░░░░░░░░░░░   31.58 %
 ```
 
 
