@@ -12,12 +12,10 @@ layout: default
 
 
 ```text
-From: 17 December 2022 - To: 24 December 2022
+From: 18 December 2022 - To: 25 December 2022
 
-Text     2 hrs 1 min     ██████████████▒░░░░░░░░░░   57.19 %
-YAML     58 mins         ███████░░░░░░░░░░░░░░░░░░   27.70 %
-Python   20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-Other    11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+YAML     1 hr 3 mins     ████████████████▒░░░░░░░░   65.89 %
+Other    16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
 ```
 
 
