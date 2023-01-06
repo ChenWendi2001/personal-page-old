@@ -12,10 +12,9 @@ layout: default
 
 
 ```text
-From: 28 December 2022 - To: 04 January 2023
+From: 29 December 2022 - To: 05 January 2023
 
-Python     6 hrs 47 mins   ██████████████▒░░░░░░░░░░   57.98 %
-Other      3 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   31.91 %
+Other      3 hrs 43 mins   ███████████▒░░░░░░░░░░░░░   45.60 %
 ```
 
 
