@@ -12,9 +12,9 @@ layout: default
 
 
 ```text
-From: 29 December 2022 - To: 05 January 2023
+From: 30 December 2022 - To: 06 January 2023
 
-Other      3 hrs 43 mins   ███████████▒░░░░░░░░░░░░░   45.60 %
+Other      3 hrs 43 mins   ████████████▒░░░░░░░░░░░░   49.01 %
 ```
 
 
