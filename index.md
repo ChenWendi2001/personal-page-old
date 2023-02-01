@@ -12,12 +12,12 @@ layout: default
 
 
 ```text
-From: 23 January 2023 - To: 30 January 2023
+From: 24 January 2023 - To: 31 January 2023
 
-Python     7 hrs 25 mins   █████████████████▓░░░░░░░   70.40 %
-Markdown   58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-Text       53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Other      49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+Python     8 hrs 28 mins   ████████████████▓░░░░░░░░   66.92 %
+Text       1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Markdown   1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+Other      1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
 ```
 
 
