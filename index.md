@@ -12,11 +12,11 @@ layout: default
 
 
 ```text
-From: 01 March 2023 - To: 08 March 2023
+From: 02 March 2023 - To: 09 March 2023
 
-Python   29 hrs 56 mins  ██████████████████████▒░░   89.49 %
-YAML     2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-Other    43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Python   26 hrs 33 mins  ██████████████████████░░░   87.36 %
+YAML     2 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+Other    44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 
