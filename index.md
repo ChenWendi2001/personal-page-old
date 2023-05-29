@@ -12,9 +12,9 @@ layout: default
 
 
 ```text
-From: 20 May 2023 - To: 27 May 2023
+From: 21 May 2023 - To: 28 May 2023
 
-Python       11 hrs 23 mins  ████████████████▒░░░░░░░░   65.65 %
+Python       11 hrs 22 mins  ████████████████▒░░░░░░░░   65.64 %
 YAML         2 hrs 41 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
 TeX          1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
 Text         1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
