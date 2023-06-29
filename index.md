@@ -12,9 +12,9 @@ layout: default
 
 
 ```txt
-From: 20 June 2023 - To: 27 June 2023
+From: 21 June 2023 - To: 28 June 2023
 
-Other   1 min           █████████████████████████   100.00 %
+No activity tracked
 ```
 
 
