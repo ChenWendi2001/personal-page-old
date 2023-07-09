@@ -12,7 +12,7 @@ layout: default
 
 
 ```txt
-From: 30 June 2023 - To: 07 July 2023
+From: 01 July 2023 - To: 08 July 2023
 
 Python     9 hrs 1 min     ████████████████████░░░░░   80.66 %
 YAML       1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
