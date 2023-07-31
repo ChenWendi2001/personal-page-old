@@ -12,7 +12,7 @@ layout: default
 
 
 ```txt
-From: 22 July 2023 - To: 29 July 2023
+From: 23 July 2023 - To: 30 July 2023
 
 Other      3 hrs 49 mins   ███████████▓░░░░░░░░░░░░░   46.31 %
 Python     2 hrs 58 mins   █████████░░░░░░░░░░░░░░░░   35.95 %
