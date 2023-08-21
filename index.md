@@ -12,7 +12,7 @@ layout: default
 
 
 ```txt
-From: 12 August 2023 - To: 19 August 2023
+From: 13 August 2023 - To: 20 August 2023
 
 Other      2 hrs 45 mins   ███████████████▒░░░░░░░░░   61.21 %
 Text       1 hr 23 mins    ███████▓░░░░░░░░░░░░░░░░░   30.79 %
