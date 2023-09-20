@@ -12,11 +12,10 @@ layout: default
 
 
 ```txt
-From: 11 September 2023 - To: 18 September 2023
+From: 12 September 2023 - To: 19 September 2023
 
-Python     1 hr 41 mins    ████████████████████████▒   97.71 %
-Other      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python   49 mins         ████████████████████████░   95.47 %
+Other    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
 ```
 
 
