@@ -12,12 +12,12 @@ layout: default
 
 
 ```txt
-From: 19 September 2023 - To: 26 September 2023
+From: 20 September 2023 - To: 27 September 2023
 
-Python     6 hrs 16 mins   ██████████████████▒░░░░░░   72.83 %
-YAML       1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-Other      56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-Markdown   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Python     6 hrs 16 mins   ██████████████████▓░░░░░░   75.03 %
+Other      56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+YAML       54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Markdown   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 GDScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
