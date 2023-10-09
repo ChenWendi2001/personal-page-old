@@ -12,11 +12,11 @@ layout: default
 
 
 ```txt
-From: 30 September 2023 - To: 07 October 2023
+From: 01 October 2023 - To: 08 October 2023
 
-Other      3 mins          ███████████▓░░░░░░░░░░░░░   46.69 %
-GDScript   2 mins          █████████░░░░░░░░░░░░░░░░   36.63 %
-Python     1 min           ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
+Other      2 mins          ███████████░░░░░░░░░░░░░░   44.24 %
+GDScript   2 mins          █████████▓░░░░░░░░░░░░░░░   38.31 %
+Python     1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
 ```
 
 
