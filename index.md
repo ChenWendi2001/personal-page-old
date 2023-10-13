@@ -12,7 +12,7 @@ layout: default
 
 
 ```txt
-From: 04 October 2023 - To: 11 October 2023
+From: 05 October 2023 - To: 12 October 2023
 
 Python   54 mins         ███████████████▓░░░░░░░░░   62.74 %
 Other    19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
