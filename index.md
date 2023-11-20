@@ -12,13 +12,13 @@ layout: default
 
 
 ```txt
-From: 10 November 2023 - To: 17 November 2023
+From: 11 November 2023 - To: 18 November 2023
 
-Python       6 hrs 47 mins   ████████████████░░░░░░░░░   63.40 %
-JSON         1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-TypeScript   58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-Makefile     37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-YAML         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Python       5 hrs 28 mins   ██████████████▓░░░░░░░░░░   58.23 %
+JSON         1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+TypeScript   58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+Makefile     41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+YAML         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 ```
 
 
