@@ -12,13 +12,13 @@ layout: default
 
 
 ```txt
-From: 20 November 2023 - To: 27 November 2023
+From: 21 November 2023 - To: 28 November 2023
 
-Python       1 hr 19 mins    █████████████░░░░░░░░░░░░   51.91 %
-Markdown     29 mins         █████░░░░░░░░░░░░░░░░░░░░   19.45 %
-Makefile     17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-Other        16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-SSH Config   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Python     3 hrs 16 mins   ██████████████████▓░░░░░░   74.76 %
+Markdown   30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+Other      16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Makefile   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+YAML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 
