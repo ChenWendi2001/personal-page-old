@@ -12,13 +12,13 @@ layout: default
 
 
 ```txt
-From: 22 December 2023 - To: 29 December 2023
+From: 23 December 2023 - To: 30 December 2023
 
-Python       18 hrs 37 mins  ██████████████████████▒░░   88.82 %
-Makefile     32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Git Config   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Other        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Markdown     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Python       19 hrs 6 mins   ████████████████████▓░░░░   83.13 %
+Other        1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+YAML         1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Git Config   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Bash         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 
