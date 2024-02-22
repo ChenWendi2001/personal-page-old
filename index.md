@@ -12,7 +12,7 @@ layout: default
 
 
 ```txt
-From: 13 February 2024 - To: 20 February 2024
+From: 14 February 2024 - To: 21 February 2024
 
 Python       27 mins         ██████████░░░░░░░░░░░░░░░   39.39 %
 HTML         15 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
