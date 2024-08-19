@@ -12,11 +12,12 @@ layout: default
 
 
 ```txt
-From: 10 August 2024 - To: 17 August 2024
+From: 11 August 2024 - To: 18 August 2024
 
-Python      6 hrs 12 mins   ███████████████████▓░░░░░   78.99 %
-Makefile    53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-YAML        45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+Python      6 hrs 19 mins   ██████████████████▓░░░░░░   75.28 %
+Makefile    1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+YAML        56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
