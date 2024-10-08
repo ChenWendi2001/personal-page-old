@@ -12,13 +12,13 @@ layout: default
 
 
 ```txt
-From: 29 September 2024 - To: 06 October 2024
+From: 30 September 2024 - To: 07 October 2024
 
-HTML         3 hrs 14 mins   ███████████████▒░░░░░░░░░   61.06 %
-JavaScript   1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
-Python       37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
-CSS          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Batchfile    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Python       37 mins         ██████████▒░░░░░░░░░░░░░░   41.05 %
+HTML         29 mins         ████████░░░░░░░░░░░░░░░░░   32.05 %
+Batchfile    16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
+JavaScript   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 
