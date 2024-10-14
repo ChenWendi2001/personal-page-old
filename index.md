@@ -25,7 +25,9 @@ Bash         44 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 * * *
-## Selected Projects
+## Playground
+Here are some of my side projects crafted for fun.
+
 ### StreamRipper 💻
 ![python](https://img.shields.io/badge/python-v3.8.8-blue) ![mitmproxy](https://img.shields.io/badge/mitmproxy-v7.0.4-green) ![rqlite](https://img.shields.io/badge/rqlite-v6.8.2-green)
 
