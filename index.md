@@ -12,13 +12,13 @@ layout: default
 
 
 ```txt
-From: 12 October 2024 - To: 19 October 2024
+From: 13 October 2024 - To: 20 October 2024
 
-Python        4 hrs 16 mins   ███████████▒░░░░░░░░░░░░░   44.95 %
-HTML          1 hr 27 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-JavaScript    1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-Markdown      56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-Makefile      46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+Python        4 hrs 16 mins   ███████████▒░░░░░░░░░░░░░   45.30 %
+HTML          1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+JavaScript    1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
+Markdown      53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+Makefile      46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
 ```
 
 
