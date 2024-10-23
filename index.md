@@ -12,7 +12,7 @@ layout: default
 
 
 ```txt
-From: 14 October 2024 - To: 21 October 2024
+From: 15 October 2024 - To: 22 October 2024
 
 Python        4 hrs 16 mins   ███████████▒░░░░░░░░░░░░░   45.37 %
 HTML          1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
