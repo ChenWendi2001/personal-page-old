@@ -12,13 +12,13 @@ layout: default
 
 
 ```txt
-From: 22 October 2024 - To: 29 October 2024
+From: 23 October 2024 - To: 30 October 2024
 
-YAML               2 hrs 49 mins   ██████████░░░░░░░░░░░░░░░   40.35 %
-Python             1 hr 51 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.58 %
-Makefile           1 hr 6 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
-Docker             43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-Markdown           15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+YAML               2 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   32.60 %
+Python             1 hr 55 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
+Docker             1 hr 49 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
+Makefile           1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+Markdown           28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
 ```
 
 
