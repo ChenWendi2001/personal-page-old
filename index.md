@@ -12,13 +12,13 @@ layout: default
 
 
 ```txt
-From: 08 November 2024 - To: 15 November 2024
+From: 09 November 2024 - To: 16 November 2024
 
-Python             1 hr 34 mins    ███████████▓░░░░░░░░░░░░░   46.75 %
-Markdown           1 hr 22 mins    ██████████░░░░░░░░░░░░░░░   40.43 %
-Docker             11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-GitIgnore file     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Shell Script       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Python             2 hrs 7 mins    █████████████████▒░░░░░░░   68.86 %
+Markdown           32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
+Docker             11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+GitIgnore file     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Shell Script       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 
