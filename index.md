@@ -12,11 +12,11 @@ layout: default
 
 
 ```txt
-From: 04 December 2024 - To: 11 December 2024
+From: 05 December 2024 - To: 12 December 2024
 
-Python     13 hrs 25 mins  ████████████████████░░░░░   80.48 %
-YAML       2 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
-Makefile   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Python     13 hrs 10 mins  ████████████████████▒░░░░   80.82 %
+YAML       2 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
+Makefile   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 textmate   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
