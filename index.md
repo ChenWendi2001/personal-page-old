@@ -12,13 +12,13 @@ layout: default
 
 
 ```txt
-From: 21 December 2024 - To: 28 December 2024
+From: 22 December 2024 - To: 29 December 2024
 
-Python             25 hrs 28 mins  ███████████████████░░░░░░   75.39 %
-YAML               7 hrs 59 mins   ██████░░░░░░░░░░░░░░░░░░░   23.65 %
-Text               8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Git Config         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-shellscript        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python             22 hrs 35 mins  ███████████████████▒░░░░░   77.41 %
+YAML               6 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
+Git Config         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Text               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+shellscript        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 
