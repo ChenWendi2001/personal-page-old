@@ -12,13 +12,13 @@ layout: default
 
 
 ```txt
-From: 29 December 2024 - To: 05 January 2025
+From: 30 December 2024 - To: 06 January 2025
 
-Python     17 hrs 52 mins  ████████████████░░░░░░░░░   64.45 %
-YAML       9 hrs 47 mins   ████████▓░░░░░░░░░░░░░░░░   35.31 %
+Python     18 hrs 58 mins  █████████████████▓░░░░░░░   70.61 %
+YAML       7 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   28.78 %
+Text       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 
