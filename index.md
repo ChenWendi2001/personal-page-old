@@ -12,11 +12,9 @@ layout: default
 
 
 ```txt
-From: 02 February 2025 - To: 09 February 2025
+From: 03 February 2025 - To: 10 February 2025
 
-Markdown   11 mins         ████████████░░░░░░░░░░░░░   48.42 %
-HTML       11 mins         ████████████░░░░░░░░░░░░░   48.31 %
-Python     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+No activity tracked
 ```
 
 
