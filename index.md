@@ -12,7 +12,7 @@ layout: default
 
 
 ```txt
-From: 06 February 2025 - To: 13 February 2025
+From: 07 February 2025 - To: 14 February 2025
 
 Python         31 mins         ████████████████████████░   96.62 %
 Bash           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
