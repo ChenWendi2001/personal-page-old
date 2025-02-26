@@ -12,13 +12,13 @@ layout: default
 
 
 ```txt
-From: 17 February 2025 - To: 24 February 2025
+From: 18 February 2025 - To: 25 February 2025
 
-Python           2 hrs 9 mins    ████████████████▒░░░░░░░░   65.89 %
-YAML             35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
-Bash             24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-textmate         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Python           4 hrs 36 mins   ███████████████░░░░░░░░░░   60.53 %
+Bash             1 hr 25 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
+YAML             1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
+Shell Script     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+textmate         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 
