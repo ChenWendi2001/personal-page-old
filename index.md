@@ -12,13 +12,13 @@ layout: default
 
 
 ```txt
-From: 21 February 2025 - To: 28 February 2025
+From: 22 February 2025 - To: 01 March 2025
 
-Python         4 hrs 6 mins    █████████████████░░░░░░░░   67.36 %
-Bash           1 hr 5 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
-YAML           40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-Shell Script   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-textmate       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python         4 hrs 22 mins   █████████████▓░░░░░░░░░░░   54.30 %
+HTML           1 hr 34 mins    █████░░░░░░░░░░░░░░░░░░░░   19.53 %
+Bash           1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+YAML           40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+Shell Script   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 
