@@ -101,6 +101,7 @@ Teaching Assistant for
 ## Contact
 - E-mail: chenwendi-andy@sjtu.edu.cn
 - GitHub: [ChenWendi2001](https://github.com/ChenWendi2001 "Check GitHub")
+- WeChat: [chenwendi2001](./WeChat "QR Code")
 
 
 
