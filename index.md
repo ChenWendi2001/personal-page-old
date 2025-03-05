@@ -25,13 +25,45 @@ Markdown     3 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 * * *
+## Professional Services
+Teaching Assistant for
+- CS1958: Programming and Data Structure I (Fall 2021), John Hopcroft Class
+- CS1959: Programming and Data Structure II (Spring 2022), John Hopcroft Class
+- CS1207: Programming and Data Structure III (Summer 2022), John Hopcroft Class
+
+
+## Honor
+- [Zhiyuan Honors Program (Engineering)](https://zhiyuan.sjtu.edu.cn/ "Zhiyuan College")
+- SJTU Academic Scholarship B 2020,2021 
+- Zhiyuan Honors Scholarship 2020, 2021,2022
+- HyperGryph Scholarship
+- Yang Yuanqing Scholarship (Undergraduate)
+- SJTU Outstanding Graduates 2023
+
+
+## Contact
+- E-mail: chenwendi-andy@sjtu.edu.cn
+- GitHub: [ChenWendi2001](https://github.com/ChenWendi2001 "Check GitHub")
+- WeChat: [chenwendi2001](./WeChat "QR Code")
+
+
+* * *
 ## Playground
 Here are some of my side projects crafted for fun.
+
+### Alpha Sekiro 🧠
+![python](https://img.shields.io/badge/python-v3.8-blue) ![cuda-11.3](https://img.shields.io/badge/CUDA-v11.3-green)
+
+![alpha-sekiro](./assets/img/alpha-sekiro.gif)
+Alpha Sekiro is a reinforcement learning agent trained on the Sekiro: Shadows Die Twice game. 
+Watch the [Bilibili video](https://www.bilibili.com/video/BV1aS4y1p78e) for more details.
+
+[Check the Project Repo](https://github.com/ChenWendi2001/alpha-sekiro)
 
 ### StreamRipper 💻
 ![python](https://img.shields.io/badge/python-v3.8.8-blue) ![mitmproxy](https://img.shields.io/badge/mitmproxy-v7.0.4-green) ![rqlite](https://img.shields.io/badge/rqlite-v6.8.2-green)
 
-![avatar](./assets/img/streamripper-structure.png)
+![streamripper](./assets/img/streamripper-structure.png)
 StreamRipper is an adaptive distributed network cache on LAN. It provides an acceleration service for [Bilibili](https://www.bilibili.com).
 
 [Check the Project Repo](https://github.com/ChenWendi2001/StreamRipper)
@@ -41,7 +73,7 @@ StreamRipper is an adaptive distributed network cache on LAN. It provides an acc
 
 ![cplusplus](https://img.shields.io/badge/c%2B%2B-11-brightgreen) ![Qt]( https://img.shields.io/badge/Qt-5.9.0-blue)
 
-![avatar](./assets/img/didi-visualizer.png)
+![didi-visualizer](./assets/img/didi-visualizer.png)
 A cross-platform multi-thread GUI which can analyze Didi demand data and provide valuable suggestions. This is a project for *CS241, SJTU*. 
 
 
@@ -80,28 +112,3 @@ Here's an interesting project I finished in summer holiday. With a 6-step search
 This is a script that helps SJTUer and FDUer to import their class schedule into mobile phones.
 
 [SJTU version](https://github.com/ChenWendi2001/SJTU_ics_generator) and [FDU version](https://github.com/ChenWendi2001/fdu_ics_generator) are provided.
-
-* * *
-
-## Professional Services
-Teaching Assistant for
-- CS1958: Programming and Data Structure I (Fall 2021), John Hopcroft Class
-- CS1959: Programming and Data Structure II (Spring 2022), John Hopcroft Class
-
-
-## Honor
-- [Zhiyuan Honors Program (Engineering)](https://zhiyuan.sjtu.edu.cn/ "Zhiyuan College")
-- SJTU Academic Scholarship B 2020
-- Zhiyuan Honors Scholarship 2020
-- SJTU Academic Scholarship B 2021
-- Zhiyuan Honors Scholarship 2021
-- HyperGryph Scholarship
-
-
-## Contact
-- E-mail: chenwendi-andy@sjtu.edu.cn
-- GitHub: [ChenWendi2001](https://github.com/ChenWendi2001 "Check GitHub")
-- WeChat: [chenwendi2001](./WeChat "QR Code")
-
-
-
