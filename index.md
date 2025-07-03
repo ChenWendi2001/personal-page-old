@@ -12,9 +12,13 @@ layout: default
 
 
 ```txt
-From: 24 June 2025 - To: 01 July 2025
+From: 25 June 2025 - To: 02 July 2025
 
-No activity tracked
+Python         2 hrs 47 mins   ██████████████████████▓░░   90.14 %
+Bash           8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Other          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+YAML           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Shell Script   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 
