@@ -12,13 +12,13 @@ layout: default
 
 
 ```txt
-From: 18 October 2025 - To: 25 October 2025
+From: 19 October 2025 - To: 26 October 2025
 
-Bash             9 hrs 58 mins   ██████████▓░░░░░░░░░░░░░░   42.81 %
-Python           7 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   32.16 %
-Markdown         3 hrs 55 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-YAML             1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Shell Script     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Bash             12 hrs 27 mins  ███████████▓░░░░░░░░░░░░░   47.11 %
+Python           7 hrs 59 mins   ███████▓░░░░░░░░░░░░░░░░░   30.21 %
+Markdown         3 hrs 55 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+YAML             1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Shell Script     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 
