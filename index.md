@@ -12,13 +12,13 @@ layout: default
 
 
 ```txt
-From: 11 January 2026 - To: 18 January 2026
+From: 12 January 2026 - To: 19 January 2026
 
-YAML         21 hrs          ██████████████████░░░░░░░   72.53 %
-Python       6 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.89 %
-Makefile     1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Markdown     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Git Config   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+YAML         21 hrs 2 mins   ████████████████▒░░░░░░░░   65.77 %
+Python       8 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   27.72 %
+Makefile     1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Markdown     41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Git Config   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 
