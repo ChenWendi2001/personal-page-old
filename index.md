@@ -12,12 +12,11 @@ layout: default
 
 
 ```txt
-From: 31 January 2026 - To: 07 February 2026
+From: 01 February 2026 - To: 08 February 2026
 
-Python     1 hr 2 mins     ███████████████▓░░░░░░░░░   62.04 %
-Markdown   20 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 %
-HTML       17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Python     1 hr 2 mins     ██████████████████▓░░░░░░   75.03 %
+Markdown   20 mins         ██████░░░░░░░░░░░░░░░░░░░   23.96 %
+Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 
