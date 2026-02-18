@@ -12,13 +12,13 @@ layout: default
 
 
 ```txt
-From: 09 February 2026 - To: 16 February 2026
+From: 10 February 2026 - To: 17 February 2026
 
-Python       7 hrs 41 mins   █████████████░░░░░░░░░░░░   52.42 %
-Bash         4 hrs 48 mins   ████████▒░░░░░░░░░░░░░░░░   32.75 %
-YAML         1 hr 50 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Python       7 hrs 3 mins    ████████████░░░░░░░░░░░░░   48.42 %
+Bash         4 hrs 53 mins   ████████▒░░░░░░░░░░░░░░░░   33.55 %
+YAML         2 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 
