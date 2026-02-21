@@ -12,12 +12,12 @@ layout: default
 
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-Python     5 hrs 56 mins         ██████████▒░░░░░░░░░░░░░░   41.77 %
-Bash       5 hrs 52 mins         ██████████▒░░░░░░░░░░░░░░   41.29 %
-YAML       2 hrs 21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
-Markdown   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Python     5 hrs 49 mins         ███████████▓░░░░░░░░░░░░░   46.37 %
+Bash       4 hrs 21 mins         ████████▓░░░░░░░░░░░░░░░░   34.72 %
+YAML       2 hrs 21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
