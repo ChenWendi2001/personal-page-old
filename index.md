@@ -12,11 +12,10 @@ layout: default
 
 
 ```txt
-From: 10 April 2026 - To: 17 April 2026
+From: 11 April 2026 - To: 18 April 2026
 
-Markdown   1 hr 17 mins          █████████████████▒░░░░░░░   68.69 %
-Other      35 mins               ███████▓░░░░░░░░░░░░░░░░░   31.29 %
-Python     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other    37 mins               █████████████████████████   99.94 %
+Python   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 
