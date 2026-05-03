@@ -12,7 +12,7 @@ layout: default
 
 
 ```txt
-From: 24 April 2026 - To: 01 May 2026
+From: 25 April 2026 - To: 02 May 2026
 
 Text         24 mins               █████████▒░░░░░░░░░░░░░░░   37.20 %
 CSS          18 mins               ███████░░░░░░░░░░░░░░░░░░   27.79 %
